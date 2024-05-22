@@ -12,3 +12,4 @@ int main()
 	printf("%d! is %d ",num,fact);
 	return 0;
 }
+//hasib is commit this secction
